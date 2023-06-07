@@ -1,26 +1,9 @@
-### About me
+### :woman: About me
 Hello! I am Frontend Developer.\
 CV in Russian <a href="https://hh.ru/applicant/resumes/view?resume=304855afff0b4c45020039ed1f33787770615a"><img src="https://cs12.pikabu.ru/post_img/2021/05/05/8/og_og_1620221808258326152.jpg" alt="hh.ru" title="link" width="30"/></a>
 
 
-#### Links to demo versions of my projects
-##### WEB-messenger
-- [demo](https://ya-practicum-messenger.onrender.com/)
-- [repository](https://github.com/Catalinadevolg/middle.messenger.praktikum.yandex)
-##### WEB-game UNO
-- [demo](https://uno-client-iota.vercel.app/)
-- [repository](https://github.com/FancyCodersYAP/UNO-fancy)
-##### Website for real company named Global Service Company
-- [demo](https://catalinadevolg.github.io/landing/)
-- [repository](https://github.com/Catalinadevolg/landing)
-##### Adaptive Email layout for an actress
-- [demo](https://catalinadevolg.github.io/)
-- [repository](https://github.com/Catalinadevolg/catalinadevolg.github.io)
-##### ToDo List
-- [demo](https://catalinadevolg.github.io/to-do-list/)
-- [repository](https://github.com/Catalinadevolg/to-do-list)
-
-### Languages and tools
+### :computer: Languages and tools
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -39,8 +22,16 @@ CV in Russian <a href="https://hh.ru/applicant/resumes/view?resume=304855afff0b4
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### Social networks
+### :envelope: Social networks
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dubogay-ekaterina/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/catalinadevolg)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/catalinadevolg)
+
+#### Links to open source projects
+##### :iphone: WEB-messenger
+- [demo](https://ya-practicum-messenger.onrender.com/)
+- [repository](https://github.com/Catalinadevolg/middle.messenger.praktikum.yandex)
+##### :video_game: WEB-game UNO
+- [demo](https://uno-client-iota.vercel.app/) (static)
+- [repository](https://github.com/FancyCodersYAP/UNO-fancy)
