@@ -34,4 +34,4 @@ CV in Russian <a href="https://hh.ru/applicant/resumes/view?resume=304855afff0b4
 - [repository](https://github.com/Catalinadevolg/middle.messenger.praktikum.yandex)
 ##### :video_game: WEB-game UNO
 - [demo](https://uno-client-iota.vercel.app/) (static)
-- [repository](https://github.com/FancyCodersYAP/UNO-fancy)
+- [repository](https://github.com/Catalinadevolg/UNO-game/tree/main)
