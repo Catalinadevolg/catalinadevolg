@@ -1,36 +1,38 @@
-### :woman: About me
-Hello! I am Frontend Developer.\
-CV in Russian <a href="https://hh.ru/applicant/resumes/view?resume=304855afff0b4c45020039ed1f33787770615a"><img src="https://cs12.pikabu.ru/post_img/2021/05/05/8/og_og_1620221808258326152.jpg" alt="hh.ru" title="link" width="30"/></a>
+#### :woman: About me
+Hello everyone! I am Frontend Developer.\
+CV in Russian <a href="https://hh.ru/resume/a55b177aff0c1554890039ed1f766a52475365"><img src="https://cs12.pikabu.ru/post_img/2021/05/05/8/og_og_1620221808258326152.jpg" alt="hh.ru" title="link" width="30"/></a>
 
 
-### :computer: Languages and tools
+#### :computer: Tech Stack
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-![Stylelint](https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white)
-![Handlebars](https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat)
+![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=flat)
+![React Hook Form Badge](https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff&style=flat)
+![React Router Badge](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=flat)
+![styled-components Badge](https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff&style=flat)
+![Storybook Badge](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff&style=flat)
+![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=flat)
+![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat)
+![ESLint Badge](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff&style=flat)
+![stylelint Badge](https://img.shields.io/badge/stylelint-263238?logo=stylelint&logoColor=fff&style=flat)
+![Handlebars.js Badge](https://img.shields.io/badge/Handlebars.js-000?logo=handlebarsdotjs&logoColor=fff&style=flat)
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
 
-### :envelope: Social networks
+#### :envelope: Social networks
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dubogay-ekaterina/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/catalinadevolg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/dubogay-ekaterina/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat)](https://t.me/catalinadevolg)
 
 #### Links to open source projects
-##### :iphone: WEB-messenger
+###### :computer: Agricultural machinery rental website
+- [repository](https://github.com/agricultural-machinery-rental/client)
+###### :iphone: WEB-messenger
 - [demo](https://ya-practicum-messenger.onrender.com/)
 - [repository](https://github.com/Catalinadevolg/middle.messenger.praktikum.yandex)
-##### :video_game: WEB-game UNO
+###### :video_game: WEB-game UNO
 - [demo](https://uno-client-iota.vercel.app/) (static)
 - [repository](https://github.com/Catalinadevolg/UNO-game/tree/main)
